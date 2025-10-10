@@ -1,4 +1,4 @@
-x = 5
-y = "ram"
+x = 10
+y = "sweathi"
 print(x)
 print(y)
